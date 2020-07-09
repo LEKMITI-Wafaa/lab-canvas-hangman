@@ -6,6 +6,9 @@ class HangmanCanvas {
 
   createBoard() {
     // ... your code goes here
+    let newDraw = new HangmanCanvas;
+
+    drawLines();
   }
 
   drawLines() {
